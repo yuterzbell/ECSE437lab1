@@ -1,4 +1,5 @@
 //Thomas Alarcon (260917655) Yuta Youness Bellali (260930145)
+//thomas.alarcon@mail.mcgill.ca yuta.bellali@mail.mcgill.ca
 #include<iostream>
 using namespace std;
 int main ()
